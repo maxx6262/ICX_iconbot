@@ -1,0 +1,1 @@
+MAX_ENERGY = 3000
